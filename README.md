@@ -1,4 +1,0 @@
-androidexample
-==============
-
-some android demo
